@@ -1,0 +1,6 @@
+java:-
+loop-  a segment of code to be run a specific amount of time.
+oop-desinging the application based on the object discovered when analysing the problem.
+
+
+
